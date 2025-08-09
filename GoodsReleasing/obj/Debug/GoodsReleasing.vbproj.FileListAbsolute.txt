@@ -1,0 +1,14 @@
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\bin\Debug\GoodsReleasing.exe.config
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\bin\Debug\GoodsReleasing.exe
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\bin\Debug\GoodsReleasing.pdb
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\bin\Debug\GoodsReleasing.xml
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.vbproj.AssemblyReference.cache
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.Form1.resources
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.Resources.resources
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.vbproj.GenerateResource.cache
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.vbproj.CoreCompileInputs.cache
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.exe
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.xml
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.pdb
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.Sform.resources
+C:\Users\IA-Josh\Desktop\INTERN\GoodsReleasing\GoodsReleasing\obj\Debug\GoodsReleasing.Form3.resources
